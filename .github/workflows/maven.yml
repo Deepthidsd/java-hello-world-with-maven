@@ -1,4 +1,4 @@
-name: Java CI with Maven
+name: Task3_Java_maven
 
 on:
   push:
